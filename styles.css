@@ -99,9 +99,9 @@ li.dropdown {
 
 /* Style the hamburger menu */
 .topnav a.icon {
-  background: #DEDEDE;
+  background: #EDEDED;
   display: block;
-  position: absolute;
+  position: fixed;
   right: 0;
   top: 0;
 }
